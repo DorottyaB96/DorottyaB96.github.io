@@ -1,6 +1,10 @@
 # Portfolio of Academic Essays and Coding Projects
-# Welcome to my portfolio! This repository showcases my academic and practical work related to the energy industry, energy trading and analysis, combining theoretical knowledge with technical skills.
+# Welcome to my portfolio!     
+
+This repository showcases my academic and practical work related to the energy industry, energy trading and analysis, combining theoretical knowledge with technical skills.
+
 About Me
+
 I am currently pursuing my Master's degree in Finance and International Business at Aarhus University. My passion lies in energy markets and quantitative analysis, and I am committed to continuous learning and professional growth in this field.
 
 This repository serves as a platform to share:
