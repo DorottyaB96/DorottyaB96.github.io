@@ -16,23 +16,28 @@ This repository serves as a platform to share:
 - Coding projects and scripts that demonstrate my technical proficiency in Python, SQL, and R.
 
 
+
 Contents:
+
 
 Academic Essays and Reports
 
 Relationship between sustainability and profitability in the oil and gas industry in the European Union - BSc Project 
-View Essay
+
 
 Price changing factors in the European natural gas market and how does it affect the renewable energy market - Seminar project
-View Essay
+
 
 
 Coding Projects
 
 Time Series Analysis of Energy Prices
+
 "Forecasting intraday power prices using ARIMA models."
 
+
 Power Price Forecasting Using Machine Learning
+
 "Implementing regression-based models to predict spot prices."
 
 
