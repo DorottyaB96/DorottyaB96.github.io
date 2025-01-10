@@ -31,22 +31,19 @@ Price changing factors in the European natural gas market and how does it affect
 
 Coding Projects
 
-Time Series Analysis of Energy Prices
+Time Series Analysis of Energy Prices:
 
 "Forecasting intraday power prices using ARIMA models."
 
 
-Power Price Forecasting Using Machine Learning
+Power Price Forecasting Using Machine Learning:
 
 "Implementing regression-based models to predict spot prices."
 
 
 
-How This Portfolio Reflects My Career Goals
 
-The content in this repository aligns closely with my aspiration to gain knowledge in the energy industry and become an expert in energy trading. Through these projects and essays, I aim to highlight my dedication to bridging theoretical knowledge with real-world applications.
 
-Contact Me
 
 Feel free to connect with me via:
 
